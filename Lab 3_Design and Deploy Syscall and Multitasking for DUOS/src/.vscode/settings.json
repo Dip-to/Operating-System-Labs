@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "locale": "c",
+        "kunistd.h": "c",
+        "syscall.h": "c",
+        "syscall_def.h": "c"
+    }
+}
